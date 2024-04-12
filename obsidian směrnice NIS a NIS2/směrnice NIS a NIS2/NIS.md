@@ -1,0 +1,3 @@
+- **Cíl**: Zlepšení odolnosti proti kybernetickým útokům v klíčových odvětvích (např. energetika, doprava, bankovnictví) a zajištění společných standardů pro reakci na kybernetické incidenty.
+- **Subjekty**: Provozovatelé kritické infrastruktury (KČI) a digitální poskytovatelé služeb (DPS).
+- **Sankce**: Sankce za porušení směrnice NIS mohou být až 2 % celkového ročního obratu subjektu.

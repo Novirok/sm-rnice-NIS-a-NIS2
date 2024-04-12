@@ -1,0 +1,1 @@
+Směrnice NIS (Network and Information Security) a NIS2 jsou právní předpisy Evropské unie zaměřené na zlepšení kybernetické bezpečnosti v členských státech.
